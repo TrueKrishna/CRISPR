@@ -94,7 +94,7 @@ main {
 .option p {
     font-size: 18px;
     color: #44444492;
-    text-align: center;
+    text-align: left;
 
     max-width: 80%;
 }
